@@ -1,0 +1,10 @@
+PODS:
+  - LGBluetooth (1.1.4)
+
+DEPENDENCIES:
+  - LGBluetooth (~> 1.1.4)
+
+SPEC CHECKSUMS:
+  LGBluetooth: 00f37b8c29cccc1dd44d5f726b2ec4a6e91c74ec
+
+COCOAPODS: 0.34.4
